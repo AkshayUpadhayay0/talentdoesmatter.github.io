@@ -1,0 +1,52 @@
+.navbar{
+    background-image: linear-gradient(to right ,red,orange);
+
+}
+.nav-link{
+    color: rgb(241, 239, 245);
+}
+.nav-link:hover{
+    color: black;
+}
+
+.hero{
+    background-image: linear-gradient(to right ,red,orange);
+}
+.hero-img{
+    float: right;
+}
+.hero-txt{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bolder;
+    color: rgb(241, 239, 245);
+    margin: 50px;
+}
+
+.header-section{
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    text-decoration: underline;
+    margin-top: 10px;
+}
+
+.footer{
+    background-image: linear-gradient(to right ,red,orange);
+    color: rgb(241, 239, 245);
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
+
+.fa{
+    padding: 20px;
+    font-size: 30px;
+    width: 30px;
+    text-align: center;
+    text-decoration: none;
+    margin: 5px 2px;
+    border-radius: 50%;
+}
+
+a{
+    color: rgb(241, 239, 245);
+}
