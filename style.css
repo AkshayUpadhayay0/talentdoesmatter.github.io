@@ -50,3 +50,7 @@
 a{
     color: rgb(241, 239, 245);
 }
+
+.footer .col-lg-4{
+    margin-top: 10px;
+}
